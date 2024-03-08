@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686203760 source:c:\users\money\documents\atividades\ed2\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686675236 source:c:\users\lucas\onedrive\documentos\ufu\ed1_anaclaudia\trabfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
